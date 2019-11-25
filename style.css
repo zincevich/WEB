@@ -1,0 +1,45 @@
+h1{
+	color: #016580;
+}
+
+
+h2{
+	color: #025672;
+}
+
+h3{
+	color: #100035;
+}
+
+a:hover {
+	font-size: 10pt;
+	color: black;
+	background: green;
+	text-decoration: none;
+	border: 10px solid blue;
+	padding: 5px;
+	margin: 10px;
+	font-style: oblique;
+}
+
+p {
+	color: #33CCCC;
+	padding-left: 30px;
+}
+
+#wow {
+	color: #005000;
+	padding-left: 30px;
+}
+
+body {
+	padding: 30px;
+}
+
+img {
+	padding: 30px;
+}
+
+table {
+	padding: 30px;
+}
