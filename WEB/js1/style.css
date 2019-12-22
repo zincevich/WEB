@@ -1,0 +1,51 @@
+.name {
+  background-image: url('icons/1.png');
+  width: 200px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  border-radius: 10px;
+}
+
+.name:hover {
+  background-color: #7B68EE;
+}
+
+.which {
+  background-image: url('icons/2.png');
+  width: 200px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  border-radius: 10px;
+}
+
+.which:hover {
+  background-color: #4169E1;
+}
+
+.reset {
+  background-image: url('icons/3.png');
+  width: 200px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  border-radius: 10px;
+}
+
+.reset:hover{
+  background-color: #5F9EA0;
+}
+
+.show {
+  background-image: url('icons/4.png');
+  width: 200px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  border-radius: 10px;
+}
+
+.show:hover {
+  background-color: #87CEEB;
+}

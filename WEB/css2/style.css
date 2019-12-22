@@ -1,0 +1,97 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 900px; 
+}
+
+
+/* Header */
+.header {
+  background-image: url('https://i.redd.it/9byspkkpmha31.jpg');
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+  height: 450px;
+}
+
+
+
+/* Nav */
+
+.side_bar {
+	float: left;
+}
+.nav {
+  background: #000;
+  height: 100% auto;
+  width: 170px; 
+}
+
+.nav ul {
+	list-style: none;
+	margin: 0 auto; 
+	padding: 0px;
+}
+
+.nav ul li {
+  color: #fff;
+  display: inline-block;
+  height: 80px;
+  line-height: 80px;
+  list-style: none;
+  width: 160px;
+  padding-left: 10px;
+  
+}
+
+.nav ul li:hover {
+	background: #407380;
+	cursor: pointer; 
+	transition: background .5s;  
+}
+
+/* Main */
+
+.page_body {
+	float: left;
+	padding-left: 20px;
+} 
+
+.main .container {
+	margin: 20px auto;
+	width: 1200px;
+}
+
+.first {
+	background-color: #A7FFD7;
+}
+
+.second {
+	margin-left: 50px;
+	background-color: #A7FFD7;
+}
+
+/* Footer */
+
+.footer {
+  float: left;	
+  background: #9C97E8;
+  width: 100%;
+}
+
+.footer p { 
+  color: #fff;
+  height: 40px;
+  font-size: 14px;
+  line-height: 80px;
+  margin: 0;
+}
